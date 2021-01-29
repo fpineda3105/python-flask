@@ -35,4 +35,4 @@ coverage html
 
 will generate a dircetory ```htmlcov``` open ```htmlcov/index.html``` in your browser to see the report.
 
-![index](/images/index.JPG "Index")
+![index](./images/index.JPG "Index")
